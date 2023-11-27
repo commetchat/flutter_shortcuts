@@ -25,4 +25,6 @@ enum ShortcutIconAsset {
   /// ShortcutMemoryIcon(bytes).toString()
   /// ```
   memoryAsset,
+
+  fileAsset,
 }
